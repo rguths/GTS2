@@ -31,9 +31,10 @@ public class MainActivity extends AppCompatActivity {
             case R.id.menuCadastrarCliente :
                 Toast.makeText(MainActivity.this, "Tem que abrir tela NovoCliente", Toast.LENGTH_LONG).show();
                 break;
-            case R.id.menuEnviarDados :
+            case R.id.menuEnviarDado:
                 Toast.makeText(MainActivity.this, "Tem que disparar ação de envio dos dados", Toast.LENGTH_LONG).show();
                 break;
+
 
         }
 

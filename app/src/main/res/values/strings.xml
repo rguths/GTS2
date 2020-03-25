@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">GTS</string>
     <string name="vender">Vender</string>
+
     <string name="enviar_dados">Enviar Dados</string>
     <string name="novo_cliente">Novo Cliente</string>
+    <string name="so_testando">So testando</string>
+    <string name="vendas_gts">Vendas GTS</string>
 </resources>

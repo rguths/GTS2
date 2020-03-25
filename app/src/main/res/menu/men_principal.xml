@@ -10,6 +10,6 @@
         android:id="@+id/menuCadastrarCliente"
         android:title="@string/novo_cliente" />
     <item
-        android:id="@+id/menuEnviarDados"
+        android:id="@+id/menuEnviarDado"
         android:title="@string/enviar_dados" />
 </menu>
