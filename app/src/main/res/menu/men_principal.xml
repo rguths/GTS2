@@ -3,6 +3,9 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:id="@+id/menuCadastrarVenda"
+        android:title="Cadastrar Venda" />
+    <item
         android:id="@+id/menuCadastrarCliente"
         android:title="Cadastrar Cliente" />
     <item
