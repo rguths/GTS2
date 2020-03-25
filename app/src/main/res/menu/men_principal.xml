@@ -4,10 +4,11 @@
 
     <item
         android:id="@+id/menuCadastrarVenda"
-        android:title="Cadastrar Venda" />
+        android:title="Vender"
+        app:showAsAction="always" />
     <item
         android:id="@+id/menuCadastrarCliente"
-        android:title="Cadastrar Cliente" />
+        android:title="Novo Cliente" />
     <item
         android:id="@+id/menuEnviarDados"
         android:title="Enviar Dados" />
