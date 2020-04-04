@@ -11,6 +11,7 @@ public class DBHelper extends SQLiteOpenHelper {
     public  static int VERSION = 1;
     public static String NOME_DB = "DB_GTS";
     public DBHelper(@Nullable Context context) {
+
         super(context, NOME_DB, null, VERSION);
     }
 
